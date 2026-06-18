@@ -35,7 +35,7 @@ require_once 'includes/header.php';
             Smart kiosk ordering for faster checkout, accurate orders, and repeat customer growth.
           </p>
           <div class="hero-ctas reveal-up delay-3">
-            <a href="/contact.php#demo" class="btn btn-hero-primary">
+            <a href="/contact.php" class="btn btn-hero-primary">
               <i class="bi bi-play-circle-fill"></i> Get Free Demo
             </a>
             <a href="/features.php" class="btn btn-hero-outline">
@@ -590,7 +590,7 @@ require_once 'includes/header.php';
             <li><i class="bi bi-check-circle-fill"></i> <?= $f ?></li>
             <?php endforeach; ?>
           </ul>
-          <a href="/contact.php#demo" class="btn <?= $p[7]?'btn-pricing-featured':'btn-pricing' ?> w-100">
+          <a href="/contact.php" class="btn <?= $p[7]?'btn-pricing-featured':'btn-pricing' ?> w-100">
             <?= $p[0]==='Enterprise'?'Request Quote':'Get Started' ?> <i class="bi bi-arrow-right"></i>
           </a>
         </div>
@@ -671,7 +671,7 @@ require_once 'includes/header.php';
           </div>
         </div>
         <div class="col-lg-4 text-lg-end">
-          <a href="/contact.php#demo" class="btn btn-cta-main">
+          <a href="/contact.php" class="btn btn-cta-main">
             Book Free Demo Today <i class="bi bi-arrow-right"></i>
           </a>
           <div class="mt-2">

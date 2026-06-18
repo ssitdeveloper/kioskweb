@@ -39,7 +39,11 @@
           <ul class="footer-links">
             <li><a href="/">Home</a></li>
             <li><a href="/about.php">About Us</a></li>
+            <li><a href="/product.php">Our Product</a></li>
             <li><a href="/features.php">Features</a></li>
+            <li><a href="/services.php">Services</a></li>
+            <li><a href="/what-we-offer.php">What We Offer</a></li>
+            <li><a href="/testimonials.php">Testimonials</a></li>
             <li><a href="/pricing.php">Pricing</a></li>
             <li><a href="/contact.php">Contact</a></li>
             <li><a href="/privacy-policy.php">Privacy Policy</a></li>
@@ -51,13 +55,13 @@
         <div class="col-lg-3 col-md-6 col-6">
           <h5 class="footer-heading">Our Solutions</h5>
           <ul class="footer-links">
-            <li><a href="/features.php#kiosk-hardware">Restaurant Kiosk Hardware</a></li>
-            <li><a href="/features.php#pos-software">Restaurant POS Software</a></li>
-            <li><a href="/features.php#self-ordering">Self-Ordering System</a></li>
-            <li><a href="/features.php#kitchen-display">Kitchen Display System</a></li>
-            <li><a href="/features.php#analytics">Sales Analytics</a></li>
-            <li><a href="/features.php#crm">Customer Loyalty CRM</a></li>
-            <li><a href="/features.php#integrations">Online Order Integration</a></li>
+            <li><a href="/product.php">Self-Ordering Kiosk</a></li>
+            <li><a href="/services.php">Installation & Training</a></li>
+            <li><a href="/services.php">Local Hyderabad Support</a></li>
+            <li><a href="/features.php">Kitchen Display System</a></li>
+            <li><a href="/features.php">Sales Analytics</a></li>
+            <li><a href="/features.php">Customer Loyalty CRM</a></li>
+            <li><a href="/what-we-offer.php">Business Automation Packages</a></li>
           </ul>
         </div>
 
@@ -86,7 +90,7 @@
               <span><?= SITE_HOURS ?></span>
             </li>
           </ul>
-          <a href="/contact.php#demo" class="btn btn-footer-cta mt-3">
+          <a href="/contact.php" class="btn btn-footer-cta mt-3">
             <i class="bi bi-calendar-check"></i> Book Free Demo
           </a>
         </div>
