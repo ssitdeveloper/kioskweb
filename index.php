@@ -29,7 +29,7 @@ require_once 'includes/header.php';
           </div>
           <h1 class="hero-title reveal-up delay-1">
             Transform Ordering.<br>
-            <span class="gradient-text">Boost Sales.</span>
+            <span class="gradient-text@">Boost Sales.</span>
           </h1>
           <p class="hero-subtitle reveal-up delay-2">
             Smart kiosk ordering for faster checkout, accurate orders, and repeat customer growth.
@@ -56,7 +56,7 @@ require_once 'includes/header.php';
           </div>
           <h1 class="hero-title reveal-up delay-1">
             Reduce Wait.<br>
-            <span class="gradient-text">Increase Revenue.</span>
+            <span class="gradient-text@">Increase Revenue.</span>
           </h1>
           <p class="hero-subtitle reveal-up delay-2">
             A powerful POS kiosk that cuts queues, speeds service, and boosts profit margins.
@@ -83,7 +83,7 @@ require_once 'includes/header.php';
           </div>
           <h1 class="hero-title reveal-up delay-1">
             Simplify Service.<br>
-            <span class="gradient-text">Grow Quickly.</span>
+            <span class="gradient-text@">Grow Quickly.</span>
           </h1>
           <p class="hero-subtitle reveal-up delay-2">
             A reliable kiosk system for Hyderabad dining with fast payments and powerful analytics.
